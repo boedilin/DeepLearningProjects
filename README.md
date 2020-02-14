@@ -8,3 +8,12 @@ Implementation of the back propagation algorithm for an arbitrary (fully connect
 
 ## tensorflow-MLP-ipynb:
 Implementation of computational graphs in TensorFlow by using only "low-level" functions of TensorFlow
+
+## MNIST-MLP_keras.ipynb:
+Train and evaluate a Multi-Layer Perceptron on the MNIST dataset. Implementaton with Keras
+
+## CIFAR10-MLP_keras.ipynb:
+Train and evaluate a Multi-Layer Perceptron on the CIFAR10 dataset. Implementaton with Keras
+
+## CIFAR10-CNN_keras.ipynb:
+Train and evaluate a CNN on the CIFAR10 dataset. Implementaton with Keras
