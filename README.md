@@ -17,3 +17,6 @@ Train and evaluate a Multi-Layer Perceptron on the CIFAR10 dataset. Implementato
 
 ## CIFAR10-CNN_keras.ipynb:
 Train and evaluate a CNN on the CIFAR10 dataset. Implementaton with Keras
+
+## CIFAR10-CNN_data_aug_visual.ipynb:
+CNN trained and evaluated on CIFAR10 with augmented dataset and visualization of activations. Implementation with Keras.
