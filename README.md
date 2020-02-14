@@ -26,3 +26,6 @@ Transfer learning implementation with Keras, trained on CIFAR10.
 
 ## notMNIST-auto-encoder.ipynb:
 Implementation of a shallow dense auto-encoder with Keras on notMNIST data set
+
+## BasicScannerAndDetectionOfNumbers:
+Implementation of the detection of numbers on a piece of paper
