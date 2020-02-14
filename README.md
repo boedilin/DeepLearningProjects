@@ -20,3 +20,9 @@ Train and evaluate a CNN on the CIFAR10 dataset. Implementaton with Keras
 
 ## CIFAR10-CNN_data_aug_visual.ipynb:
 CNN trained and evaluated on CIFAR10 with augmented dataset and visualization of activations. Implementation with Keras.
+
+## transfer_learning_CIFAR10.ipynb:
+Transfer learning implementation with Keras, trained on CIFAR10.
+
+## notMNIST-auto-encoder.ipynb:
+Implementation of a shallow dense auto-encoder with Keras on notMNIST data set
